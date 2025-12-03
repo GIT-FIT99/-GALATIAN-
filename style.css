@@ -1,3 +1,6 @@
 label {
-      display: 'block',
+      border: 1px solid,
+      width:10en,
+      height:7em,
+      display: 'block';
 }
